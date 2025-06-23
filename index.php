@@ -31,7 +31,7 @@ include '../lifeinsystemadmin/database/queries/dbconnection.php';
                     <form action="../lifeinsystemadmin/database/display/lifein_addingmembers.php" method="POST" enctype = "multipart/form-data" class="register-form" id="register-form">
 
                     <!-- <form action="" method="POST" > -->
-                        <h2>Lifein Fullness Registration</h2>
+                        <h2>Lifein Fullness Registration - IN FixTemp</h2>
                         <div class="form-row">
                             <div class="form-group">
                                 <label for="name">First Name :</label>
